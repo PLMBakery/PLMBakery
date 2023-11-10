@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @PLMBakery
+  ->> At the moment im focused on my CAD Book and PDM book for NX and Teamcenter <<- 
 - 👀 I’m interested in many things, learning how to code with python.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing at the moment, because im new to it
 - 📫 How to reach me you will find a way
+
 
 <!---
 PLMBakery/PLMBakery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
