@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PLMBakery
-  ->> At the moment im focused on my CAD Book and PDM book for NX and Teamcenter <<- 
-- 👀 I’m interested in many things, learning how to code with python.
+  ->> At the moment im focused on my note taking app LiNotium<<- 
+- 👀 I’m interested in many things, learning how to code with python and java
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing at the moment, because im new to it
 - 📫 How to reach me you will find a way
